@@ -27,6 +27,14 @@
 "code": "IT212",
 "description": "Object-Oriented Programming",
 "credit": "2.25"
+},
+{
+"year_level": "2nd",
+"sem": "1st",
+"code": "PATHFIT",
+"description": "Physical Activity Towards Health and Fitness 2",
+"credit": "1.25"  
 }
  ]
 }
+
