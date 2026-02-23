@@ -22,8 +22,8 @@
 "credit": "2.25"
 },
 {
-"year_level": "2nd",
-"sem": "2nd",
+"year_level": "1st",
+"sem": "1st",
 "code": "IT212",
 "description": "Object-Oriented Programming",
 "credit": "2.25"
@@ -37,4 +37,5 @@
 }
  ]
 }
+
 
